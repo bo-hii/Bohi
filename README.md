@@ -1,7 +1,7 @@
 - 👋 Hi, I’m bahareh
 - 
-- 👀 I’m interested in reading novel
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in reading and programing
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
